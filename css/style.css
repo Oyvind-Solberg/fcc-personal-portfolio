@@ -295,7 +295,7 @@ footer .brand > p {
 
 /* Media queries desktop first */
 
-/* Desktop 1200px */
+/* Desktop 1800px */
 @media only screen and (max-width: 1800px) {
 	.project-container {
 		-ms-grid-columns: 1fr 1fr 1fr;
